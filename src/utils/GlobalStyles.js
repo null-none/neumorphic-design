@@ -14,8 +14,8 @@ export default createGlobalStyle`
   }
 
   body {
-    background: ${(props) => props.theme.colors.white};
-    color: ${(props) => props.theme.colors.text};
+    background: ${(props) => props.theme.colors.secondary};
+    color: ${(props) => props.theme.colors.dark};
     font-family: ${fonts.primary};
     max-width: 100%;
   }

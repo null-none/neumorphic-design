@@ -17,6 +17,7 @@ export const Button = styled.button`
   border: none;
   text-align: center;
   outline: none;
+  box-shadow: 3px 3px 6px #999, -3px -3px 6px #fff;
   cursor: pointer;
   ${variant({
     variants: {

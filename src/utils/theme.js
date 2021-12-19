@@ -26,7 +26,7 @@ spaces.larger = spaces[4];
 export default {
   colors: {
     primary: "#F9D44F",
-    secondary: "#E2C6C2",
+    secondary: "#e6e7ee",
     warning: "orange",
     danger: "red",
     success: "green",

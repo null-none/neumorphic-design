@@ -19,6 +19,7 @@ export const Input = styled.input`
   font-size: ${(props) => props.theme.fontSizes.medium};
   border-radius: 50px;
   box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px #eee;
+  box-shadow: 3px 3px 6px #999, -3px -3px 6px #fff;
   ${layout};
   ${space};
 `;
